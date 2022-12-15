@@ -1,0 +1,27 @@
+{
+  "seller.validation_409": "There was an error creating the Seller.",
+  "seller.validation_email_409": "Email already registered.",
+  "seller.validation_document_409": "Document already registered.",
+  "seller.validation_on_update_409": "One parameter is required to update a Seller.",
+  "seller.validation_404": "Seller not found.",
+  "seller.validation_on_delete_409": "ID Seller is required.",
+
+  "client.validation_409": "There was an error creating the Client.",
+  "client.validation_email_409": "Email already registered.",
+  "client.validation_document_409": "Document already registered.",
+  "client.validation_on_update_409": "One parameter is required to update a Client.",
+  "client.validation_404": "Client not found.",
+  "client.validation_on_delete_409": "ID Client is required.",
+
+  "product.validation_has_product_409": "Product already registered with this Seller.",
+  "product.validation_409": "There war an error creating the product.",
+  "product.validation_on_update_409": "One parameter is required to update a product.",
+  "product.validation_404": "Product not found.",
+  "product.validation_on_delete_409": "ID Product is required.",
+
+  "delivery.validation_client_409": "Client not found.",
+  "delivery.validation_product_409": "Product not found.",
+  "delivery.validation_seller_409": "Seller not found.",
+  "delivery.validation_has_delivery_409": "Delivery already registered.",
+  "delivery.validation_on_create_409": "There war an error creating the delivery."
+}

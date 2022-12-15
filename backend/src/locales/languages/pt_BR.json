@@ -1,0 +1,27 @@
+{
+  "seller.validation_409": "Ocorreu um erro ao criar o Vendedor.",
+  "seller.validation_email_409": "Email já registrado.",
+  "seller.validation_document_409": "Documento já registrado.",
+  "seller.validation_on_update_409": "É necessário um parâmetro para editar um Vendedor.",
+  "seller.validation_404": "Vendedor não encontrado.",
+  "seller.validation_on_delete_409": "É necessário o ID do Vendedor.",
+
+  "client.validation_409": "Ocorreu um erro ao criar o Cliente.",
+  "client.validation_email_409": "Email já registrado.",
+  "client.validation_document_409": "Documento já registrado.",
+  "client.validation_on_update_409": "É necessário um parâmetro para editar um Cliente.",
+  "client.validation_404": "Cliente não encontrado.",
+  "client.validation_on_delete_409": "É necessário o ID do Cliente.",
+
+  "product.validation_has_product_409": "Produto já registrado com esse Vendedor.",
+  "product.validation_409": "Ocorreu um erro ao criar o produto.",
+  "product.validation_on_update_409": "É necessário um parâmetro para editar um produto.",
+  "product.validation_404": "Produto não encontrado.",
+  "product.validation_on_delete_409": "ID do produto é necessário.",
+
+  "delivery.validation_client_409": "Cliente não encontrado.",
+  "delivery.validation_product_409": "Produto não encontrado.",
+  "delivery.validation_seller_409": "Vendedor não encontrado.",
+  "delivery.validation_has_delivery_409": "Entrega já cadastrada.",
+  "delivery.validation_on_create_409": "Ocorreu um erro ao criar a entrega."
+}
