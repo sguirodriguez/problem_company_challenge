@@ -39,3 +39,11 @@ Openlink to view it in the browser.
 | backgroundShadow       | ![rgba(165, 171, 179, 0.16)](https://via.placeholder.com/10/131f30?text=+) rgba(165, 171, 179, 0.16) |
 | inputLabel       | ![#A3B8B0](https://via.placeholder.com/10/A3B8B0?text=+)#A3B8B0 |
 | textColor       | ![#000](https://via.placeholder.com/10/000?text=+)#000 | 
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/aIJtm4i.png)
+![App Screenshot2](https://i.imgur.com/xSkHCwH.png)
+
+
+
