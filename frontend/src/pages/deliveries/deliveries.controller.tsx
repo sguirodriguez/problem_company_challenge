@@ -21,7 +21,7 @@ const DeliveriesController = () => {
       path: "/delivery",
     });
     setLoading(false);
-    console.log("o que vem", data);
+
     if (error) {
       alert.error(error);
     }
